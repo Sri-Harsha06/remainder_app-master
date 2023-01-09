@@ -45,7 +45,6 @@ ex:services["instance-id"]
 +spring.application.name //The name of the application 
 +server.port //The Port on which the server is running
 +spring.cloud.consul.discovery.hostname //The Host Name 
-
 Application can be started as a java application with the restController implementations.
 
 ###Client Discovery
