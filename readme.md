@@ -24,7 +24,7 @@
 
 - Import the library "github.com/hashicorp/consul/api".
 cmd:go get "github.com/hashicorp/consul/api"
-###Service Registry
+### Service Registry
 - Default config file can be made using Defaultconfig()
 - Create a New Client using the Default config as parameter.
 - Next specify the details as service Id,Port No,Host Name which are required for the service registration.Recomended to Include check.
