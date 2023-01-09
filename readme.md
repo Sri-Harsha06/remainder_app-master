@@ -20,7 +20,7 @@
 }
 - server starts at localhost:8500
 
-##Golang
+## Golang
 
 - Import the library "github.com/hashicorp/consul/api".
 cmd:go get "github.com/hashicorp/consul/api"
